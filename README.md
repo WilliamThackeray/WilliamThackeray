@@ -7,9 +7,9 @@ Full Stack Web Developer and Designer
 I have had a passion for coding for years now and have really found my stride with web development and design during my time earning my degree. I found that creating websites that functioned properly and looked beautiful is satisfying and fun.
 
 * 🌍  I'm based in Utah
-* ✉️  You can contact me at [will\_thack@comcast.net](mailto:will_thack@comcast.net)
+* ✉️  You can contact me at [williamthackeray14@gmail.com](mailto:williamthackeray14@gmail.com)
 * 🚀  I'm currently working on [The Movie List](http://https://github.com/WilliamThackeray/theMovieList)
-* 🧠  I'm learning frameworks and web tools (as many as I can)
+* 🧠  I'm learning Nuxt
 
 <a href="https://www.twitch.tv/thack_whack" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/thack_whack?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=22272e&label=TWITCH+STATUS" /></a>
