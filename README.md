@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm William Thackeray</h1>
 <h3 align="center">I have had a passion for coding for years now and have really found my stride with web development and design during my time earning my degree. I found that creating websites that functioned properly and looked beautiful is satisfying and fun.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williamthackeray" alt="williamthackeray" /></a> </p>
+<a href="https://www.twitch.tv/thack_whack" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/thack_whack?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=22272e&label=TWITCH+STATUS" /></a>
 
 - 🔭 I’m currently working on [Tile Breaker](https://tile-breaker.vercel.app/)
 
