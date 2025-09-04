@@ -8,7 +8,7 @@ I have had a passion for coding for years now and have really found my stride wi
 
 * 🌍  I'm based in Utah
 * ✉️  You can contact me at [williamthackeray14@gmail.com](mailto:williamthackeray14@gmail.com)
-* 🚀  I'm currently working on [The Movie List](http://https://github.com/WilliamThackeray/theMovieList)
+* 🚀  I'm currently working on [Tile Breaker](https://tile-breaker.vercel.app/)
 * 🧠  I'm learning Nuxt
 
 <a href="https://www.twitch.tv/thack_whack" target="_blank" rel="noreferrer"><img
