@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/william-robert-thackeray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-robert-thackeray" height="30" width="40" /></a>
 <a href="https://instagram.com/williamthackthack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="williamthackthack" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/williamthackera1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="williamthackera1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/williamthackeray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="williamthackeray" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/2KPr4eSzxJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2KPr4eSzxJ" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/thack_whack" target="_blank" rel="noreferrer"><img
