@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm William Thackeray</h1>
 <h3 align="center">I have had a passion for coding for years now and have really found my stride with web development and design during my time earning my degree. I found that creating websites that functioned properly and looked beautiful is satisfying and fun.</h3>
 
-<a href="https://www.twitch.tv/thack_whack" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/thack_whack?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=22272e&label=TWITCH+STATUS" /></a>
-
 - 🔭 I’m currently working on [Tile Breaker](https://tile-breaker.vercel.app/)
 
 - 🌱 I’m currently learning **Nuxt and Community Engagement**
@@ -28,6 +25,8 @@ src="https://img.shields.io/twitch/status/thack_whack?logo=twitchsx&style=for-th
 <a href="https://instagram.com/williamthackthack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="williamthackthack" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/williamthackeray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="williamthackeray" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/2KPr4eSzxJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2KPr4eSzxJ" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/thack_whack" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/thack_whack?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=22272e&label=TWITCH+STATUS" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
